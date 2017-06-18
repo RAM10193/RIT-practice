@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><editableResource createdTimestamp="1497576158678" createdUser="3537" id="9e086b0:15cae7d8a05:-7ef1" selfDescribing="ws1.parasoft.com (192.55.86.64)" type="host_machine_resource" updatedTimestamp="1497576158678" updatedUser="3537" version="1.0">
+   <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
+   <resourceConfig host_address="192.55.86.64" user_host_name="ws1.parasoft.com"/>
+</editableResource>

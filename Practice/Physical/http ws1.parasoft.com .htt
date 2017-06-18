@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><editableResource createdTimestamp="1497576156490" createdUser="3537" id="9e086b0:15cae7d8a05:-7f43:-420080752:1544155186" selfDescribing="http ws1.parasoft.com " type="http_transport" updatedTimestamp="1497576156490" updatedUser="3537" version="1.0">
+   <syncdetails compare="http ws1.parasoft.com " lastSynced="1497576156490" sourceid="9e086b0:15cae7d8a05:-7f43">
+      <sourcepath path="Calculator/ICalculator"/>
+   </syncdetails>
+   <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
+   <resourceConfig transportName="" transportTemplateName="HTTP">
+      <messageProperties ReasonPhrase="No Stub available that matches the request" clientConnectionsPerHost="100" credDomain="" credPassword="#com.ghc.1!04bb" credType="0" credUser="" httpHost="ws1.parasoft.com" httpNtlmDomain="" httpPort="80" httpProxyHost="" httpProxyPassword="#com.ghc.1!e885" httpProxyPort="" httpProxyUsername="" httpResourceRoot="" httpServerSocketBindAddressOverride="" httpServerSocketPortOverride="" httpSocketTimeout="" httpTimeoutResponseCode="503" httpVirtualHost="" useSsl="false" version="4">
+         <kerberos Anon="false" CStyle="Username / Password" Conf="false" Custom="true" Enabled="false" Integ="false" MutAuth="false" RepDet="false" SSO="false" SeqCheck="false"/>
+      </messageProperties>
+   </resourceConfig>
+</editableResource>

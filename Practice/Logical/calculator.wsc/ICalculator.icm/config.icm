@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><editableResource createdTimestamp="1497576156365" createdUser="3537" id="9e086b0:15cae7d8a05:-7f43:-2123153218:408339756" type="infrastructure_component_resource" updatedTimestamp="1497576156365" updatedUser="3537" version="1.1">
+   <syncdetails compare="Calculator/ICalculator" lastSynced="1497576156365" sourceid="9e086b0:15cae7d8a05:-7f43">
+      <sourcepath path="Calculator/ICalculator"/>
+   </syncdetails>
+   <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
+   <resourceConfig infrastructureType="http_transport">
+      <recordingSettings colour="110,237,216"/>
+   </resourceConfig>
+</editableResource>
